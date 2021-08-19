@@ -38,14 +38,19 @@ Non-functional requirements are requirements that are not directly concerned wit
 requirements, safety requirements, security requirements and software quality attributes.
 
  Performance Requirements
+ 
  Increase Customer Satisfaction
+ 
 Internet banking system must allows customers to access banking services 24 hours a day, 365 days a year with minimum downtime period for backup and maintenance.
- Expand Product Offerings
+
+Expand Product Offerings
+
 The new services allows bank to capture a larger percentage of their customers’ asset base. The internet banking system will provide facilities for bank to offer new services and products onto its homepage.
+
  Reduce Overall Costs
+ 
 It will help to reduce a bank’s costs in two fundamentalways: it minimize the cost of processing transactions and reduces the number of branches required to service an
 equivalent number of customer.
-
 
  Safety Requirements
  
@@ -55,13 +60,17 @@ equivalent number of customer.
 3. An off-site back up is necessary for recovery from major failures / disasters to ensure business continuity. Depending on criticality, different technologies based on back up, hot sites, warm sites or cold sites should be available for business continuity. The business continuity plan should be frequently tested.
 
  Security Requirements
+ 
 We understand that there is nothing more important than knowing that transactions are private and secure.Therefore, we have applied the very latest in technology when creating the Internet Banking security architecture. The best way to understand the security architecture within the Internet Banking is to take it one step at a time.These security features are described briefly below.
 
  Sign-off Button
+ 
 When an end-user is finished with Internet Banking, they should click the Sign-off button before going anywhere else on the Web. This ends the Internet Banking session.
 
  Failed Log-on Attempts
+ 
 As an added security feature, the Internet Banking System is denied access after a pre-determined number of failed log-on attempts. If users have been locked out due to exceeding the pre-determined number of log-on attempts,the users must contact the Bank in order to be reinitialized.
 
 Encryption
+
 In addition to password protection, we ensures server authentication by using the latest techniques of data encryption. Data encryption is a way of translating data into a form that is unintelligible without a deciphering mechanism. 
