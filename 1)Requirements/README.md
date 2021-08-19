@@ -3,6 +3,18 @@ Online banking system provides is specifically developed for internet banking fo
 
 The Traditional way of maintaining details of a user in a bank was to enter the details and record  them. Every time the user need to perform some transactions he has to go to bank and perform  the necessary actions, which may not be so feasible all the time. It may be a hard hitting task for  the users and the bankers too. The project gives real life understanding of Internet banking and  activities performed by various roles in the supply chain. Here, we provide an automation for  banking system through Internet. Internet banking system project captures activities performed by different roles in real life banking which provides enhanced techniques  for maintaining the required information up to date, which results in efficiency. The project  gives real life understanding of Internet banking and activities performed by various roles in the  supply chain.
 
+# Overall Description
+## Product Perspective 
+This is a simple GUI based application which is very easy to understand and use. It uses Tkinter module for the GUI. Talking about the application, the user can simply create their account and login in order to manage their bank accounts. 
+## Product Features 
+The user can register his/her account by providing details such as username, opening balance, and pin number. After that, the user has to provide those details in order to access their account. The user can view his/her transaction details, balance inquiry, credit and debit amount. By entering a certain amount only, the user can credit or debit amounts. From this type of application, a user can simply manage his personal accounts with fewer efforts. 
+## Operating Environment 
+In order to run the project, we have to install Python which a free and open-source IDLE. We will run this application on windows pc. Complier/Interpreter used will be VS Code.
+## Assumptions and Dependencies
+The only tangible benefit provided by the proposed system is that the paper work is reduced to the minimum and hence the reduction in cost incurred on Stationary and its storage. The system provides many benefits that can’t be measured in terms of Money for e.g., user’s friendliness, more user response being more efficient. 
+
+The proposed system is technically feasible as it can be developed easily with the help of available technology.  Automation makes our life easy. The proposed system is highly user friendly and is much easily able to interact with the system. Therefore, the users will readily accept the system as data entry and making queries can be easily done.
+
 # Functional Requirement Specification
 Requirements specifications add further information to the requirements definition. Natural language is often used to write requirements specifications. However, a natural language specification is not a particularly good basis for either a design or a contract between customer and system developer.
 A Functional Requirements Specification describes what is required to meet the users' business needs. Functional requirements specify which actions the design must provide in order to benefit the system's users. Functional requirements are determined by the needs, user, and task analysis of the current system.
