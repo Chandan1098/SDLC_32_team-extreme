@@ -117,7 +117,35 @@ As an added security feature, the Internet Banking System is denied access after
 Encryption
 
 In addition to password protection, we ensures server authentication by using the latest techniques of data encryption. Data encryption is a way of translating data into a form that is unintelligible without a deciphering mechanism. 
-mansi tardeja 
-    GHRCE 
+
+# 4W's and 1'H :
+### Who:
+In this project coustmer have the access to the system.
+### What:
+Why to rely on manual bank transcations when you can have such a reiable system for the same.
+### When:
+Anytime, anywhere user friendly. Can be used by people of any age group.
+### Where:
+This project is made for people of all the age groups hence no boundaries on the usage and everything.
+### How:
+This project is useful for performing basic calculations.
+# High level requirements :
+ID | DESCRIPTION      | STATUS
+---|------------------|-------
+HR01|USER CAN REGISTER/LOGIN|IMPLEMENTED
+HR02|USER CAN DEPOSIT/WITHDRAW AMOUNT|IMPLEMENTED
+HR03|USER CAN SEE HIS/HER BANK DETAILS|IMPLEMENTED
+H304|USER CAN SEE HIS /HER PERSONAL IMFORMATION|IMPLEMENGTED
+
+# Low level requirements :
+ID|DESCRIPTION|HLRID|STATUS
+--|------------|----|------
+LR01|USER CAN REGISTER/LOGIN|HR01|IMPLEMENTED
+LR02|USER CAN DEPOSIT/WITHDRAW MONEY|HR02|IMPLEMENTED
+LR03|USER CAN VIEW AND EDIT PERSONAL INFORMATON|HR03|IMPLEMENTED 
+
+# SWOT ANALYSIS 
+
+![SWOT_ANALYSIS](https://user-images.githubusercontent.com/68369404/130322977-e0ddd217-0ab8-4d16-a97a-ef13f681e5b7.PNG)
     
 
