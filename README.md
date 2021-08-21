@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Folder Structure 
-=======
+
 * Workflows
 * Folder Structure 
 * Contributors list and summary
