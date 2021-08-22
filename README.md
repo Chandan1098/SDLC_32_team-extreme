@@ -28,7 +28,7 @@ Sr_no |Explanation.
 # Features 
 
 # Challanges Faced 
- Sr_no |challange | Measures taken to Resolve 
+ Sr_no |Challenges | Measures taken to Resolve 
  ------|----------|----------------------------
 1 |Adding Data to git | Read the literature available for git . | abc 
 2 | Adding Tkinter package to the python  | Reinstalled python from scratch .
